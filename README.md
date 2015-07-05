@@ -1,2 +1,3 @@
 # galactic-data
-Provide data for https://github.com/anvaka/pm
+
+Provide data for Cascadia JS presentation/visualization.
