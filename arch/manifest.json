@@ -1,3 +1,4 @@
 {
-  "last": "2015-07-29T02-30-00Z"
+  "all": ["no-aur", "including-aur"],
+  "last": "including-aur"
 }
