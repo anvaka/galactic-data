@@ -1,5 +1,6 @@
 
 {
-  "last": "v2",
+  "all": ["v1", "v2", "v3"],
+  "last": "v3",
   "endpoint": "https://s3.amazonaws.com/sci-hub"
 }
