@@ -1,6 +1,8 @@
 {
   "all": [
-    "d50"
+    "d50",
+    "d50_clean_small",
+    "d50_clean"
   ],
-  "last": "d50"
+  "last": "d50_clean"
 }
