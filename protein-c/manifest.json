@@ -1,0 +1,5 @@
+{
+    "all": ["protein-c"],
+    "last": "protein-c",
+    "endpoint": "https://s3.amazonaws.com/sci-hub"
+}
